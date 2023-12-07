@@ -1,0 +1,126 @@
+Patient Information:
+Name: Irfan Rahman
+Age: 21
+Blood Pressure: 120/80 mmHg
+Fasting Glucose: 2 mg/dL
+HbA1c: 5%
+LDL Cholesterol: 4 mg/dL
+HDL Cholesterol: 4 mg/dL
+-------------------------
+Patient Information:
+Name: Nafiz Kalimullah
+Age: 23
+Blood Pressure: 180/120 mmHg
+Fasting Glucose: 15 mg/dL
+HbA1c: 12%
+LDL Cholesterol: 23 mg/dL
+HDL Cholesterol: 22 mg/dL
+-------------------------
+Patient Information:
+Name: Irfan
+Age: 23
+Blood Pressure: 120/80 mmHg
+Fasting Glucose: 8 mg/dL
+HbA1c: 12%
+LDL Cholesterol: 23 mg/dL
+HDL Cholesterol: 20 mg/dL
+-------------------------
+Patient Information:
+Name: Kareem
+Age: 23
+Blood Pressure: 140/100 mmHg
+Fasting Glucose: 9 mg/dL
+HbA1c: 9%
+LDL Cholesterol: 200 mg/dL
+HDL Cholesterol: 100 mg/dL
+-------------------------
+Patient Information:
+Name: Kareem
+Age: 23
+Blood Pressure: 120/80 mmHg
+Fasting Glucose: 4 mg/dL
+HbA1c: 4%
+LDL Cholesterol: 100 mg/dL
+HDL Cholesterol: 50 mg/dL
+-------------------------
+Patient Information:
+Name: Mustafa Doom
+Age: 44
+Blood Pressure: 180/100 mmHg
+Fasting Glucose: 15 mg/dL
+HbA1c: 15%
+LDL Cholesterol: 20 mg/dL
+HDL Cholesterol: 100 mg/dL
+-------------------------
+Patient Information:
+Name: md
+Age: 21
+Blood Pressure: 120/80 mmHg
+Fasting Glucose: 10 mg/dL
+HbA1c: 9%
+LDL Cholesterol: 100 mg/dL
+HDL Cholesterol: 100 mg/dL
+-------------------------
+Patient Information:
+Name: Musa Sedebeh
+Age: 19
+Blood Pressure: 120/80 mmHg
+Fasting Glucose: 100 mg/dL
+HbA1c: 9%
+LDL Cholesterol: 100 mg/dL
+HDL Cholesterol: 100 mg/dL
+-------------------------
+Patient Information:
+Name: It Help
+Age: 23
+Blood Pressure: 170/100 mmHg
+Fasting Glucose: 50 mg/dL
+HbA1c: 4%
+LDL Cholesterol: 50 mg/dL
+HDL Cholesterol: 50 mg/dL
+-------------------------
+Patient Information:
+Name: Abir Mahmood
+Age: 23
+Blood Pressure: 120/80 mmHg
+Fasting Glucose: 100 mg/dL
+HbA1c: 14%
+LDL Cholesterol: 100 mg/dL
+HDL Cholesterol: 100 mg/dL
+-------------------------
+Patient Information:
+Name: Irfan Rahman
+Age: 21
+Blood Pressure: 120/80 mmHg
+Fasting Glucose: 100 mg/dL
+HbA1c: 9%
+LDL Cholesterol: 100 mg/dL
+HDL Cholesterol: 100 mg/dL
+-------------------------
+Patient Information:
+Name: ok
+Age: 21
+Blood Pressure: 120/80 mmHg
+Fasting Glucose: 100 mg/dL
+HbA1c: 9%
+LDL Cholesterol: 140 mg/dL
+HDL Cholesterol: 30 mg/dL
+-------------------------
+Patient Information:
+Name: Samir khab
+Age: 44
+Blood Pressure: 180/100 mmHg
+Fasting Glucose: 100 mg/dL
+HbA1c: 9%
+LDL Cholesterol: 130 mg/dL
+HDL Cholesterol: 100 mg/dL
+-------------------------
+Patient Information:
+Name: Akash chowdhyry
+Age: 23
+Blood Pressure: 100/80 mmHg
+Fasting Glucose: 80 mg/dL
+HbA1c: 4%
+LDL Cholesterol: 90 mg/dL
+HDL Cholesterol: 90 mg/dL
+-------------------------
